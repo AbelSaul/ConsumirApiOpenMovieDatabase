@@ -1,0 +1,4 @@
+Ingresamos a la ruta /
+Nos mostrar el inicio de sesion <-> showLoginForm el cual el action es login
+Ingresamos la credenciales  
+Nos redireccionara a DashboardController y ejecutara el metodo index, el cual nos mostrar la ventana dashboard
